@@ -1,4 +1,4 @@
-package kniga;
+package practika11;
 import java.lang.*;
 public class mainbook {
     public static void main(String[] args) {

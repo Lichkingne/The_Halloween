@@ -1,4 +1,4 @@
-package ru.mirea.Nik.l.df;
+package practika13;
 
 public class Dog {
     private String name;

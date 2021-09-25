@@ -1,4 +1,4 @@
-package asd;
+package practika12;
 import java.lang.*;
 public class mainball {
     public static void main(String[] args) {

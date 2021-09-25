@@ -1,4 +1,4 @@
-package alet;
+package practica2;
 
 public class mainlok {
     public static void main(String[] args) {

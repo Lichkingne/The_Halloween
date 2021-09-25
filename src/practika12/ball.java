@@ -1,4 +1,4 @@
-package asd;
+package practika12;
 
 public class ball {
     private String type;

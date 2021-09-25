@@ -1,4 +1,4 @@
-package ru.mirea.Nik.l.df;
+package practika13;
 import java.lang.*;
 public class main {
     public static void main(String[] args) {

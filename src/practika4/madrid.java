@@ -1,4 +1,4 @@
-package footbal;
+package practika4;
 
 import java.awt.*;
 import java.awt.event.*;

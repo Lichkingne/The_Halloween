@@ -1,4 +1,4 @@
-package kniga;
+package practika11;
 
 public class book {
     private String tip;

@@ -1,4 +1,4 @@
-package alet;
+package practica2;
 
 public class lok {
     double x = 0.0;
